@@ -1,0 +1,2 @@
+Bundle 'mattn/zencoding-vim.git'
+Bundle 'git://git.wincent.com/command-t.git'
