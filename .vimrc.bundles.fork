@@ -1,2 +1,4 @@
 Bundle 'mattn/zencoding-vim.git'
+Bundle 'tpope/vim-unimpaired.git'
+Bundle 'fholgado/minibufexpl.vim.git'
 Bundle 'git://git.wincent.com/command-t.git'
